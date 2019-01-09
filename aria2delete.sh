@@ -1,1 +1,1 @@
-find /1/Download -name '*.aria2' -type f -print -exec rm -rf {} \;
+find /1/download -name '*.aria2' -type f -print -exec rm -rf {} \;
